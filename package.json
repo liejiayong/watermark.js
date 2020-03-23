@@ -1,0 +1,27 @@
+{
+  "name": "watermark.js",
+  "version": "0.1.0",
+  "description": "WaterMark for html background",
+  "main": "index.js",
+  "private": true,
+  "scripts": {},
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liejiayong/watermark.js.git"
+  },
+  "homepage": "https://github.com/liejiayong/watermark.js",
+  "keywords": [
+    "WaterMark",
+    "html WaterMark",
+    "js WaterMark",
+    "html",
+    "js",
+    ""
+  ],
+  "author": "liejiayong",
+  "license": "ISC"
+}
