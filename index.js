@@ -1,1 +1,1 @@
-module.exports = require('.lib/watermark.js');
+module.exports = require('./dist/watermark.js');
