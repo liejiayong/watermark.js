@@ -1,7 +1,7 @@
 {
   "name": "js-watermarks",
-  "version": "0.1.2",
-  "description": "WaterMark for html background",
+  "version": "0.2.0",
+  "description": "WaterMarks for html background",
   "main": "index.js",
   "scripts": {},
   "directories": {
@@ -10,9 +10,9 @@
   },
   "homepage": "https://github.com/liejiayong/watermark.js",
   "keywords": [
-    "WaterMark",
-    "html WaterMark",
-    "js WaterMark",
+    "WaterMarks",
+    "html WaterMarks",
+    "js WaterMarks",
     "html",
     "js",
     ""

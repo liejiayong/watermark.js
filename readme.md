@@ -1,6 +1,6 @@
 # WaterMark.js
 
-WaterMark for html background
+A lightweight WaterMarks for html background
 
 # Usage
 
